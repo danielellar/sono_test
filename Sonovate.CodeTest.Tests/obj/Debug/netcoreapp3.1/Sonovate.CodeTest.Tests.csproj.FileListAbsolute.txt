@@ -90,3 +90,13 @@ C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\obj\Debug\netcor
 C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\obj\Debug\netcoreapp3.1\Sonovate.CodeTest.Tests.csproj.CopyComplete
 C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\obj\Debug\netcoreapp3.1\Sonovate.CodeTest.Tests.dll
 C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\obj\Debug\netcoreapp3.1\Sonovate.CodeTest.Tests.pdb
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Sonovate.CodeTest.exe
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Lambda2Js.Signed.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Raven.Client.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Sparrow.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Sonovate.CodeTest.dll
+C:\Source\Sonovate Code Test March 2020\Sonovate.CodeTest.Tests\bin\Debug\netcoreapp3.1\Sonovate.CodeTest.pdb

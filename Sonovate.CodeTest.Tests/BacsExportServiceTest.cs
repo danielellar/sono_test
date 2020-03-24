@@ -6,8 +6,10 @@ namespace Sonovate.CodeTest.Tests
     public class BacsExportServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CanGetAgency()
         {
+            
+            Application.Main();
         }
     }
 }
